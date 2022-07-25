@@ -18,19 +18,19 @@ export default function About() {
         </div>
         <div>
           <p className="mt-3 capitalize text-lg">
-            Ayo Masak adalah web pencarian resep makanan dan minuman. Web ini
-            mempunyai fitur save resep yang berfungsi untuk menyimpan resep dan
+            Pawonan adalah web pencarian resep makanan dan minuman. Web ini
+            mempunyai fitur <b>save resep</b> yang berfungsi untuk menyimpan resep dan
             user bisa membuka kembali resep tersebut tanpa harus mencarinya lagi
             di form pencarian. Hal itu akan sangat membantu untuk yang baru
             belajar memasak. <br />
             data resep yang disedikan berasal dari{" "}
             <a
               className="underline underline-offset-1"
-              href="https://github.com/tomorisakura/unofficial-masakapahariini-api"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Api unofficial masak apa hari ini
+              <i>Api unofficial masak apa hari ini</i>
             </a>
           </p>
         </div>
