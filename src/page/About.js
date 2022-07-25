@@ -30,7 +30,7 @@ export default function About() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i>Api unofficial masak apa hari ini</i>
+              Api unofficial masak apa hari ini
             </a>
           </p>
         </div>
