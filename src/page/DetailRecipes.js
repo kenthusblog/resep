@@ -83,11 +83,11 @@ export default function DetailRecipes() {
             )}
           </div>
 
-          <img
+          <center><img
             src={recipes.thumb}
             className="mt-4 mb-5 rounded-md shadow-lg "
             alt={`${recipes.title}`}
-          />
+          /></center>
 
           <div className="w-full mb-5">{recipes.desc}</div>
 
