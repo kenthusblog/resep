@@ -3,7 +3,7 @@ import React from "react";
 import Navbar from "../components/navbar";
 import Footer from "../components/Footer";
 
-import logo from "../assets/images/ayo-masak-large.png";
+import logo from "../assets/images/resep-logo-large.png";
 
 export default function About() {
   return (
