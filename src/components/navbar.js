@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import Logo from "../assets/images/ayo-masak.png";
+import Logo from "../assets/images/resep-logo.png";
 
 export default function NavBar() {
   const [toggle, setToggle] = useState(false);
