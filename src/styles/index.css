@@ -19,6 +19,3 @@
     border-radius:2px
     list-style-position:inside;  
 }
-  
-  .xlist:before {content: url('https://api.iconify.design/ic/baseline-task-alt.svg');}
-
