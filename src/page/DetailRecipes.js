@@ -51,7 +51,7 @@ export default function DetailRecipes() {
           />
         </div>
       ) : (
-        <div className="container mx-auto px-5 mt-32">
+      <div class="notice"><div className="container mx-auto px-5 mt-32">
           <div className="text-xl lg:text-3xl font-semibold w-full">
             {recipes.title}
 
@@ -81,7 +81,7 @@ export default function DetailRecipes() {
                 </button>
               </div>
             )}
-          </div>
+          </div></div>
 
           <center><img
             src={recipes.thumb}
