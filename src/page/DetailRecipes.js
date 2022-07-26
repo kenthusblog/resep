@@ -94,7 +94,8 @@ export default function DetailRecipes() {
           <div className="flex flex-col-reverse lg:flex-row justify-between mb-5">
             <div className="flex flex-col">
               <div>
-                <div className="text-2xl font-semibold mb-2"><div class="xlist">Bahan - Bahan</div></div>
+               <div class="xlist">
+			   <div className="text-2xl font-semibold mb-2">Bahan - Bahan</div>
                 {ingredient.map((item, index) => {
                   return (
                     <div key={index} className="pl-3 text-xl font-light">
@@ -102,7 +103,7 @@ export default function DetailRecipes() {
                     </div>
                   );
                 })}
-              </div>
+              </div></div>
               <div>
                 <div className="text-2xl font-semibold mb-2 mt-5">
                   Cara Masak
