@@ -19,3 +19,9 @@
     border-radius:2px;
     list-style-position:inside;  
 }
+
+.notice{
+  font-family:Montserrat,sans-serif;
+  background:-webkit-gradient(linear,left bottom,left top,from(rgba(83,171,89,.05)),to(rgba(83,171,89,.05))),#f4f4fa;
+  background:-webkit-linear-gradient(bottom,rgba(83,171,89,.05),rgba(83,171,89,.05)),#f4f4fa;background:-o-linear-gradient(bottom,rgba(83,171,89,.05),rgba(83,171,89,.05)),#f4f4fa;background:linear-gradient(0deg,rgba(83,171,89,.05),rgba(83,171,89,.05)),#f4f4fa;font-weight:600;font-size:12px;
+  line-height:140%;color:#53ab59;padding:16px 42px}@media (max-width:46.24em){.notice{font-size:10px;padding:13px 16px}}
