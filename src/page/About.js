@@ -23,15 +23,8 @@ export default function About() {
             user bisa membuka kembali resep tersebut tanpa harus mencarinya lagi
             di form pencarian. Hal itu akan sangat membantu untuk yang baru
             belajar memasak. <br />
-            data resep yang disedikan berasal dari{" "}
-            <a
-              className="underline underline-offset-1"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer">
-              Api unofficial masak apa hari ini
-            </a>
-          </p>
+            data resep yang disedikan berasal dari Api unofficial masak apa hari ini
+             </p>
         </div>
       </div>
       <Footer />
