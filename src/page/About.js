@@ -22,8 +22,8 @@ export default function About() {
             mempunyai fitur save resep yang berfungsi untuk menyimpan resep dan
             user bisa membuka kembali resep tersebut tanpa harus mencarinya lagi
             di form pencarian. Hal itu akan sangat membantu untuk yang baru
-            belajar memasak. <br />
-            data resep yang disedikan berasal dari Api unofficial masak apa hari ini
+            belajar memasak. <br /><br/>
+            Data resep yang disedikan berasal dari <a href="#">Api unofficial masak apa hari ini</a>
              </p>
         </div>
       </div>
